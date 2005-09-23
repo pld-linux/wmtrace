@@ -3,7 +3,7 @@ Summary(pl):	wmtrace - "¶ledz±cy" window manager
 Name:		wmtrace
 Version:	1.1
 Release:	0.8
-License:	?
+License:	GPL
 Group:		X11/Window Managers/Tools
 Source0:	http://insitu.lri.fr/~chapuis/software/wmtrace/%{name}-%{version}.tar.bz2
 # Source0-md5:	5e919008d1f05af9148a7bbfc7b8cd79
