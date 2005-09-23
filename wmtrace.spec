@@ -8,6 +8,7 @@ Group:		X11/Window Managers/Tools
 Source0:	http://insitu.lri.fr/~chapuis/software/wmtrace/%{name}-%{version}.tar.bz2
 # Source0-md5:	5e919008d1f05af9148a7bbfc7b8cd79
 URL:		http://insitu.lri.fr/~chapuis/software/wmtrace/
+BuildRequires:	XFree86-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
