@@ -40,7 +40,7 @@ rm -rf $RPM_BUILD_ROOT
 
 %post
 %banner %{name} -e << EOF
-wmtrace need the XRecord extension. You should have the line: 
+wmtrace needs the XRecord extension. You should have the line: 
 		load \"record\"
 in the module section of your X configuration file
 EOF
