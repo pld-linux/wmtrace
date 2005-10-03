@@ -1,5 +1,5 @@
 Summary:	wmtrace - window manager tracer
-Summary(pl):	wmtrace - "¶ledz±cy" window manager
+Summary(pl):	wmtrace - "¶ledz±cy" zarz±dca okien
 Name:		wmtrace
 Version:	1.1
 Release:	1
@@ -17,10 +17,10 @@ activity, but preserve your private life (e.g., the logs say that you
 use mozilla, but the web pages you browse are not logged, etc.).
 
 %description -l pl
-wmtrace to "¶ledz±cy" window manager dla systemów uniksowych. ¦ledzi
-aktywno¶æ u¿ytkownika, ale zachowuj±c przy tym jego prywatno¶æ. 
-(n.p., logi pokazuj±, ¿e u¿ytkownik u¿ywa mozilli lecz przegl±dane strony 
-nie s± logowane, itp.).
+wmtrace to "¶ledz±cy" zarz±dca okien dla systemów uniksowych. ¦ledzi
+aktywno¶æ u¿ytkownika, ale zachowuj±c przy tym jego prywatno¶æ (np.
+logi pokazuj±, ¿e u¿ytkownik u¿ywa mozilli, lecz przegl±dane strony
+nie s± logowane itp.).
 
 %prep
 %setup -q
