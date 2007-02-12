@@ -1,5 +1,5 @@
 Summary:	wmtrace - window manager tracer
-Summary(pl.UTF-8):   wmtrace - "śledzący" zarządca okien
+Summary(pl.UTF-8):	wmtrace - "śledzący" zarządca okien
 Name:		wmtrace
 Version:	1.1
 Release:	1
